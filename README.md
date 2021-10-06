@@ -1,2 +1,2 @@
-# Placemnet-status-of-univeristy-students-prediction
+# Placement-status-of-univeristy-students-prediction
 It is important for a university to give placements to the students. The major factors which is influencing placement is very important for a university to train according to that. This Data set provides us the information about the acedamic details of student. From the given academic detail "The Problem Statement is to Predict the Status of the student in terms of placement wheather the student got placed through campus or not?
